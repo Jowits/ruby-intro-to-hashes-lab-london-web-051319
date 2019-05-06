@@ -7,6 +7,8 @@ end
 
 def actor
   actor = {"Brad Pitt": 50, "Dwayne Johnson": 45}
+
+  actor
 end
 
 def monopoly
