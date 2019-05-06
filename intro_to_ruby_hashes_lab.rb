@@ -6,7 +6,7 @@ def new_hash
 end
 
 def actor
-
+  actor = {"Brad Pitt": 50, "Dwayne Johnson": 45}
 end
 
 def monopoly
